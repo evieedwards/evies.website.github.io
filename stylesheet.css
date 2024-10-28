@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Kingthings Petrock light';
+  src: url('') format('truetype');
+}
+
+body {
+  display: flex;
+  font-family: 'Kingthings Petrock light', Arial, sans-serif;
+}
+
+nav {
+  width: 200px;
+  padding: 10px;
+  background-color: #FFFFFF;
+}
+
+nav a {
+  display: block;
+  margin: 10px 0;
+  text-decoration: none;
+  color: #333;
+}
+
+main {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
