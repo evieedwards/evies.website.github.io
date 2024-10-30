@@ -28,3 +28,15 @@ main {
   align-items: center;
   min-height: 100vh;
 }
+
+nav a {
+    display: block;
+    margin: 10px 0;
+    text-decoration: none;
+    color: #333;
+    transition: text-shadow 0.3s ease; /* Makes the shadow effect smooth */
+  }
+  
+  nav a:hover {
+    text-shadow: 2px 2px 2px blue; /* Adds shadow when hovering */
+  }
