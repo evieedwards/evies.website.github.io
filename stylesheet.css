@@ -4,8 +4,7 @@
 }
 
 body {
-    background-color: pink !important;
-display: flex;
+  display: flex;
   font-family: 'Kingthings Petrock light', Arial, sans-serif;
 }
 
@@ -35,9 +34,9 @@ nav a {
     margin: 10px 0;
     text-decoration: none;
     color: #333;
-    transition: text-shadow 0.3s ease; /* Makes the shadow effect smooth */
+    transition: text-shadow 0.3s ease; 
   }
   
   nav a:hover {
-    text-shadow: 2px 2px 2px blue; /* Adds shadow when hovering */
+    text-shadow: 2px 2px 2px rgb(232, 142, 255); 
   }
