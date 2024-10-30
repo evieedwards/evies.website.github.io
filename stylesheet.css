@@ -4,7 +4,8 @@
 }
 
 body {
-  display: flex;
+    background-color: pink !important;
+display: flex;
   font-family: 'Kingthings Petrock light', Arial, sans-serif;
 }
 
