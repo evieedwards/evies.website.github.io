@@ -1,14 +1,13 @@
 @font-face {
-  font-family: 'Kingthings Petrock light';
-  src: url('https://raw.githubusercontent.com/evieedwards/evies.website.github.io/main/Kingthings%20Petrock%20light.ttf') format('truetype');
+  font-family: serif;
   font-weight: normal;
   font-style: normal;
-  font-size: larger;
+  font-size: 12px;
 }
 
 body {
   display: flex;
-  font-family: 'Kingthings Petrock light', Arial, sans-serif;
+  font-family: serif;
 }
 
 nav {
