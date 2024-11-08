@@ -24,7 +24,7 @@ nav a {
 }
 
 br {
-    line-height: 50%;
+    line-height: 30%;
     content: "";
     margin: 5px;
     display: block;
