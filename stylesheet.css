@@ -16,11 +16,22 @@ nav {
   background-color: #FFFFFF;
 }
 
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;  /* space between items */
+}
+
+nav li {
+    display: inline;
+}
+
 nav a {
-  display: block;
-  margin: 10px 0;
-  text-decoration: none;
-  color: #333;
+    text-decoration: none;
+    color: inherit;
 }
 
 br {
