@@ -40,4 +40,5 @@ nav a {
   
   nav a:hover {
     text-shadow: 2px 2px 2px rgb(232, 142, 255); 
+    font-weight: inherit; 
   }
