@@ -2,18 +2,7 @@ body {
     display: flex;
     margin: 40px;
     font-family: "Pinyon Script", cursive, serif;
-    font-size: 24px;
-}
-  
-.pinyon-script-regular {
-    font-family: "Pinyon Script", cursive, serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-nav {
-  width: 200px;
-  padding: 10px;
-  background-color: #FFFFFF;
+    font-size: 30px;
 }
 
 nav ul {
@@ -34,6 +23,12 @@ nav a {
     color: inherit;
 }
 
+.pinyon-script-regular {
+    font-family: "Pinyon Script", cursive, serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 br {
     line-height: 30%;
     content: "";
