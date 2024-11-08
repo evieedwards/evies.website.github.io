@@ -1,12 +1,12 @@
 body {
     display: flex;
     margin: 40px;
-    font-family: "Pinyon Script", cursive;
+    font-family: "Pinyon Script", cursive, serif;
     font-size: 24px;
 }
   
 .pinyon-script-regular {
-    font-family: "Pinyon Script", cursive;
+    font-family: "Pinyon Script", cursive, serif;
     font-weight: 400;
     font-style: normal;
   }
