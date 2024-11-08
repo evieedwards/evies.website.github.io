@@ -1,5 +1,6 @@
 body {
     display: flex;
+    margin: 40px;
     font-family: "Pinyon Script", cursive;
     font-size: 24px;
 }
