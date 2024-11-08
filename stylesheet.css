@@ -15,17 +15,13 @@ nav ul {
     gap: 10px;
 }
 
-nav li:not(:last-child)::after {
-    content: "~";
-    margin-left: 10px;
-}
-
 nav li {
     display: inline;
 }
 
-nav span {
-    display: inline-block;
+nav a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .pinyon-script-regular {
