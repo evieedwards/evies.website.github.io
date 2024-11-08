@@ -23,6 +23,13 @@ nav a {
   color: #333;
 }
 
+br {
+    line-height: 50%;
+    content: "";
+    margin: 5px;
+    display: block;
+}
+
 main {
   flex-grow: 1;
   display: flex;
