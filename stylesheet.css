@@ -26,7 +26,13 @@ nav ul {
 }
 
 nav li {
-    display: inline;
+    display: flex;
+    align-items: center;
+}
+
+nav span {
+    margin-left: 10px;
+    display: inline-block;
 }
 
 nav a {
