@@ -3,6 +3,16 @@ body {
     margin: 40px;
     font-family: "Pinyon Script", cursive, serif;
     font-size: 30px;
+    padding-top: 80px;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 0;
+    z-index: 1000;
 }
 
 nav ul {
