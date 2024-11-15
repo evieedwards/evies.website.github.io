@@ -75,14 +75,9 @@ nav a {
   }
 
   #about-text {
-    opacity: 0;
-    transform: translateX(-100%);
-    transition: all 0.8s ease-out;
-    overflow: hidden;
-    position: relative;
+    display: none;
     max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto;
     text-align: center;
     font-size: 18px;
     line-height: 1.5;
@@ -91,7 +86,5 @@ nav a {
 }
 
 #about-text.visible {
-    opacity: 1;
-    transform: translateX(0);
-    margin-top: 20px;
+    display: block;
 }
